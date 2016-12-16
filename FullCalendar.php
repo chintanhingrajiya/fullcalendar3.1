@@ -1,5 +1,5 @@
 <?php
-namespace tejrajs\fullcalendar;
+namespace chintan\fullcalendar;
 
 /**
  * This is just an example.
