@@ -1,6 +1,6 @@
 <?php
 /**/
-namespace tejrajs\fullcalendar;
+namespace chintan\fullcalendar;
 
 use yii\web\AssetBundle;
 use Yii;
@@ -8,8 +8,7 @@ use Yii;
  * 
  * FullCalendarAsset.php
  *
- * @author Tej Raj Shrestha <helloteju96@gmail.com>
- * @link http://www.tejrajstha.com.np/
+ 
  */
 class FullCalendarAsset extends AssetBundle
 {
@@ -22,7 +21,7 @@ class FullCalendarAsset extends AssetBundle
 	public $css = ['fullcalendar.css'];
 	public $language;
 	public $googleCalendar = false;
-	public $sourcePath = '@vendor/tejrajs/yii2-fullcalendar/assets';
+	public $sourcePath = '@vendor/chintan/yii2-fullcalendar/assets';
 
 	public function init()
 	{
