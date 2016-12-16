@@ -9,13 +9,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist chintan/yii2-fullcalendar "dev-master"
+php composer.phar require chintan/yii2-fullcalendar
 ```
 
 or add
 
 ```
-"chintan/yii2-fullcalendar": "dev-master"
+"chintan/yii2-fullcalendar": "*"
 ```
 
 to the require section of your `composer.json` file.
